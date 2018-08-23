@@ -1,0 +1,25 @@
+-----------------------------git Help-----------------------------
+
+To clone a repository into a folder:
+
+git clone git@github:link
+** link = everything after "github."
+
+------------------------------------------------------------------
+
+To push a folder into GitHub:
+
+1. enter parent/root folder 
+2. git status
+3. git add "specific folder name" or "individual file name"
+4. git status to check folder/file has been tracked/added
+5. git commit -m "message here(detail of commit)"
+6. git push
+
+------------------------------------------------------------------
+
+To pull a folder from GitHub:
+
+git pull (in the folder of which you want to pull)
+
+e.g. must be in "labs" to do git pull for "labs"
