@@ -1,0 +1,4 @@
+LOGIN Aaron
+LOGOUT
+FOLLOW Calvin
+QUIT

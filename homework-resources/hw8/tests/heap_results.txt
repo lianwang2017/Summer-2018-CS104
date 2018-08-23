@@ -1,0 +1,62 @@
+Running main() from gtest_main.cc
+Note: Google Test filter = **
+[==========] Running 26 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 26 tests from HeapTest
+[ RUN      ] HeapTest.StringRandomPushOrder100_01
+[       OK ] HeapTest.StringRandomPushOrder100_01 (1 ms)
+[ RUN      ] HeapTest.StringRandomPushOrder1000_02
+[       OK ] HeapTest.StringRandomPushOrder1000_02 (84 ms)
+[ RUN      ] HeapTest.StringRandomPushOrder10000_03
+[       OK ] HeapTest.StringRandomPushOrder10000_03 (16516 ms)
+[ RUN      ] HeapTest.IntTwentySevenRandomPushOrder100_04
+[       OK ] HeapTest.IntTwentySevenRandomPushOrder100_04 (1 ms)
+[ RUN      ] HeapTest.IntTwentySevenRandomPushOrder1000_05
+[       OK ] HeapTest.IntTwentySevenRandomPushOrder1000_05 (2 ms)
+[ RUN      ] HeapTest.IntTwentySevenRandomPushOrder10000_06
+[       OK ] HeapTest.IntTwentySevenRandomPushOrder10000_06 (35 ms)
+[ RUN      ] HeapTest.IntTwentySevenRandomPushOrder100000_07
+[       OK ] HeapTest.IntTwentySevenRandomPushOrder100000_07 (618 ms)
+[ RUN      ] HeapTest.IntTwentySevenRandomPushOrder1000000_08
+[       OK ] HeapTest.IntTwentySevenRandomPushOrder1000000_08 (8185 ms)
+[ RUN      ] HeapTest.TagDataBinaryEmpty_09
+[       OK ] HeapTest.TagDataBinaryEmpty_09 (337 ms)
+[ RUN      ] HeapTest.TagDataBinaryPushEmpty_10
+[       OK ] HeapTest.TagDataBinaryPushEmpty_10 (7 ms)
+[ RUN      ] HeapTest.TagDataBinaryPushTop_11
+[       OK ] HeapTest.TagDataBinaryPushTop_11 (0 ms)
+[ RUN      ] HeapTest.TagDataBinaryPushPopEmpty_12
+[       OK ] HeapTest.TagDataBinaryPushPopEmpty_12 (0 ms)
+[ RUN      ] HeapTest.TagDataBinaryMultiplePushInOrderPop_13
+[       OK ] HeapTest.TagDataBinaryMultiplePushInOrderPop_13 (3 ms)
+[ RUN      ] HeapTest.TagDataBinaryRandomPushOrder100_14
+[       OK ] HeapTest.TagDataBinaryRandomPushOrder100_14 (1 ms)
+[ RUN      ] HeapTest.TagDataBinaryRandomPushOrder1000_15
+[       OK ] HeapTest.TagDataBinaryRandomPushOrder1000_15 (6 ms)
+[ RUN      ] HeapTest.TagDataBinaryRandomPushOrder10000_16
+[       OK ] HeapTest.TagDataBinaryRandomPushOrder10000_16 (80 ms)
+[ RUN      ] HeapTest.TagDataBinaryRandomPushOrder100000_17
+[       OK ] HeapTest.TagDataBinaryRandomPushOrder100000_17 (1463 ms)
+[ RUN      ] HeapTest.TagDataTwelveEmpty_18
+[       OK ] HeapTest.TagDataTwelveEmpty_18 (0 ms)
+[ RUN      ] HeapTest.TagDataTwelvePushEmpty_19
+[       OK ] HeapTest.TagDataTwelvePushEmpty_19 (0 ms)
+[ RUN      ] HeapTest.TagDataTwelvePushTop_20
+[       OK ] HeapTest.TagDataTwelvePushTop_20 (0 ms)
+[ RUN      ] HeapTest.TagDataTwelvePushPopEmpty_21
+[       OK ] HeapTest.TagDataTwelvePushPopEmpty_21 (1 ms)
+[ RUN      ] HeapTest.TagDataTwelveMultiplePushInOrderPop_22
+[       OK ] HeapTest.TagDataTwelveMultiplePushInOrderPop_22 (0 ms)
+[ RUN      ] HeapTest.TagDataTwelveRandomPushOrder100_23
+[       OK ] HeapTest.TagDataTwelveRandomPushOrder100_23 (0 ms)
+[ RUN      ] HeapTest.TagDataTwelveRandomPushOrder1000_24
+[       OK ] HeapTest.TagDataTwelveRandomPushOrder1000_24 (4 ms)
+[ RUN      ] HeapTest.TagDataTwelveRandomPushOrder10000_25
+[       OK ] HeapTest.TagDataTwelveRandomPushOrder10000_25 (59 ms)
+[ RUN      ] HeapTest.TagDataTwelveRandomPushOrder100000_26
+[       OK ] HeapTest.TagDataTwelveRandomPushOrder100000_26 (803 ms)
+[----------] 26 tests from HeapTest (28212 ms total)
+
+[----------] Global test environment tear-down
+[==========] 26 tests from 1 test case ran. (28212 ms total)
+[  PASSED  ] 26 tests.

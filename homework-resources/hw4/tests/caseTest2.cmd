@@ -1,0 +1,3 @@
+OR MINDblown
+AND tesTING
+QUIT

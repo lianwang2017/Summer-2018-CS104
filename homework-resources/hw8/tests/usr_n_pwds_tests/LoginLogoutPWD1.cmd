@@ -1,0 +1,11 @@
+LOGIN Aaron abc123
+LOGOUT	
+LOGIN Bryan
+LOGOUT
+LOGIN Calvin password
+LOGOUT
+LOGIN David Cs4
+LOGOUT
+LOGIN Fred junkyard
+LOGOUT
+QUIT

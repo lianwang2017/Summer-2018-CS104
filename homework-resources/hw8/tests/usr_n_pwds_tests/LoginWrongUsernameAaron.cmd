@@ -1,0 +1,2 @@
+LOGIN Asron abc123
+QUIT

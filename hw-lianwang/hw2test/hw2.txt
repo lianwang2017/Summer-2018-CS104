@@ -1,0 +1,35 @@
+Name: Jane Lian Wang
+USC Email: lianwang@usc.edu
+
+--------------------------------Problem 1--------------------------------
+
+Part (a): 
+Part (b): 
+Part (c): 
+Part (d): 
+Part (e): 
+Part (f): 
+
+--------------------------------Problem 2--------------------------------
+
+Part (a): 
+Part (b): 
+Part (c): 
+Part (d): 
+
+--------------------------------Problem 3--------------------------------
+
+1. a data type that stores the college that won the NCAA basketball 
+   championship each year, in the order they won (i.e. year). You do not need to store the year.
+
+2. a data type that would store the SSN of those who have registered to 
+   vote. We want to ensure no one can register to vote twice so we would want to do efficient lookups to see if a given SSN is already present.
+
+3. a data type that stores all of the 2-letter state postal codes (e.g.
+   "CA", "NV", "NY", etc.) and all the zip codes that exist in that particular state. We should be able to quickly determine if, for a given state, a zip code really does exist in that state.
+
+4. a data type that stores a the list of recently visited websites 
+   (stores the URLs) for each user on a computer
+
+5. a data type to store the configuration of a 10x12 maze (where the
+   walls vs. free spaces are)

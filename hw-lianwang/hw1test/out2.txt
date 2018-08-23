@@ -1,0 +1,49 @@
+The man jumped.
+The man jumped quickly.
+The man stole.
+The man stole quickly.
+The woman jumped.
+The woman jumped quickly.
+The woman stole.
+The woman stole quickly.
+The child jumped.
+The child jumped quickly.
+The child stole.
+The child stole quickly.
+The happy man jumped.
+The happy man jumped quickly.
+The happy man stole.
+The happy man stole quickly.
+The happy woman jumped.
+The happy woman jumped quickly.
+The happy woman stole.
+The happy woman stole quickly.
+The happy child jumped.
+The happy child jumped quickly.
+The happy child stole.
+The happy child stole quickly.
+The sad man jumped.
+The sad man jumped quickly.
+The sad man stole.
+The sad man stole quickly.
+The sad woman jumped.
+The sad woman jumped quickly.
+The sad woman stole.
+The sad woman stole quickly.
+The sad child jumped.
+The sad child jumped quickly.
+The sad child stole.
+The sad child stole quickly.
+The mean man jumped.
+The mean man jumped quickly.
+The mean man stole.
+The mean man stole quickly.
+The mean woman jumped.
+The mean woman jumped quickly.
+The mean woman stole.
+The mean woman stole quickly.
+The mean child jumped.
+The mean child jumped quickly.
+The mean child stole.
+The mean child stole quickly.
+48
